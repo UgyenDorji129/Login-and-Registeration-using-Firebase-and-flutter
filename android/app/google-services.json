@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773137016348",
+    "project_id": "crop-app-7f0f6",
+    "storage_bucket": "crop-app-7f0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773137016348:android:3def807876c045e99b21d9",
+        "android_client_info": {
+          "package_name": "com.example.fcrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773137016348-6ke90148cvi5m8j1m098he3sfm70mbh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgA4bR3RCUEjcVD274kGILi6PFt7s0pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773137016348-6ke90148cvi5m8j1m098he3sfm70mbh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
